@@ -76,8 +76,8 @@ Each subtitle entry has Chinese on line 3 and English on line 4:
 ```
 1
 00:01:12,000 --> 00:01:14,000
-你的境界是
-Your meditative state is
+你的
+Your
 ```
 
 ## Configuration
