@@ -1,0 +1,20 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Python and IDE files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+
+# Media, models, outputs, and working files
+/data/
+/models/
+/other_doc/
+*.log
+
+# Independent third-party repository
+/Fish-Speech/

@@ -1,0 +1,10 @@
+# Core dependencies
+python-dotenv>=1.0.0
+pydub>=0.25.1
+librosa>=0.10.0
+soundfile>=0.12.0
+numpy>=1.26.0
+
+# TTS engines (choose one)
+elevenlabs>=10.0.0        # ElevenLabs cloud API (paid, high quality)
+# TTS>=0.22.0            # XTTS v2 local model (free, uncomment to use)
